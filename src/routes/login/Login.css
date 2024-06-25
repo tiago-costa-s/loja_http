@@ -1,0 +1,13 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.login form {
+  width: 350px;
+  padding: 1.4rem;
+  background-color: rgb(14, 14, 14);
+}

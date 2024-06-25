@@ -1,10 +1,142 @@
 {
-    "products":[
-        {
-            "id":"0",
-            "codeProduct":"",
-            "name":"",
-            "value":""
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "codeProduct": "2",
+      "name": "tv",
+      "manufacturer": "samsung",
+      "discount": "10",
+      "price": "10000"
+    },
+    {
+      "id": "bb62",
+      "codeProduct": 0,
+      "name": "tv 60\" oled 4k",
+      "manufacturer": "samsung",
+      "discount": "0",
+      "price": "2000"
+    },
+    {
+      "id": "c2b7",
+      "codeProduct": 48683,
+      "name": "iphone 15 plux max",
+      "manufacturer": "apple",
+      "discount": "2",
+      "price": "8000"
+    },
+    {
+      "id": "ede0",
+      "codeProduct": 617796,
+      "name": "galaxy s25 ultra ",
+      "manufacturer": "samsung",
+      "discount": "0",
+      "price": "6800"
+    },
+    {
+      "id": "3070",
+      "codeProduct": 440310,
+      "name": "galaxy tab s9 fe wifi",
+      "manufacturer": "samsung",
+      "discount": "0",
+      "price": "2699"
+    },
+    {
+      "id": "0ace",
+      "codeProduct": 166928,
+      "name": "galaxy tab s9 fe plus",
+      "manufacturer": "samsung",
+      "discount": "0",
+      "price": "2999"
+    },
+    {
+      "id": "f8de",
+      "codeProduct": 703795,
+      "name": "Ipad 10 64gb",
+      "manufacturer": "Apple",
+      "discount": "0",
+      "price": "3200"
+    },
+    {
+      "id": "075a",
+      "codeProduct": 944623,
+      "name": "Ipad Air 64gb",
+      "manufacturer": "Apple",
+      "discount": "0",
+      "price": "4500"
+    },
+    {
+      "id": "71e0",
+      "codeProduct": 191312,
+      "name": "aaa",
+      "manufacturer": "aa",
+      "discount": "131",
+      "price": "31"
+    },
+    {
+      "id": "b59f",
+      "codeProduct": 848611,
+      "name": "asdsad",
+      "manufacturer": "sadasd",
+      "discount": "13",
+      "price": "313"
+    },
+    {
+      "id": "9121",
+      "codeProduct": 213704,
+      "name": "asdsad",
+      "manufacturer": "sadasd",
+      "discount": "13",
+      "price": "313"
+    },
+    {
+      "id": "7320",
+      "codeProduct": 171581,
+      "name": "asdsa",
+      "manufacturer": "asdasd",
+      "discount": "1109",
+      "price": "212"
+    },
+    {
+      "id": "975d",
+      "codeProduct": 530451,
+      "name": "asdsa",
+      "manufacturer": "asdasd",
+      "discount": "1109",
+      "price": "212"
+    },
+    {
+      "id": "90e9",
+      "codeProduct": 301187,
+      "name": "sadas",
+      "manufacturer": "asdasd",
+      "discount": "011313",
+      "price": "3131"
+    },
+    {
+      "id": "33f9",
+      "codeProduct": 791051,
+      "name": "fffsafas",
+      "manufacturer": "sadasd",
+      "discount": "1111",
+      "price": "111"
+    },
+    {
+      "id": "e9df",
+      "codeProduct": 118576,
+      "name": "ewfwe",
+      "manufacturer": "wfefew",
+      "discount": "242",
+      "price": "422"
+    }
+  ],
+  "users": [    
+    {
+      "id": "d7c7",
+      "code": 118648,
+      "name": "Tiago Costa",
+      "login": "tiago.costa",
+      "password": "1234",
+      "confirmPassword": "1234"
+    }
+  ]
 }

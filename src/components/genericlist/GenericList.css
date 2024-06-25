@@ -1,0 +1,55 @@
+.list_products {
+  margin: 0 auto;
+  max-width: 1280px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.table_products {
+  width: 800px;
+  border-collapse: collapse;
+}
+
+.share_control {
+  padding: 1rem 0.5rem;
+}
+
+th,
+td {
+  border: 1px solid #616161;
+  padding: 8px;
+}
+
+th {
+  background-color: #7bbbe6;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #61616123;
+}
+
+tr:hover {
+  background-color: #6665653e;
+}
+
+.th_code {
+  max-width: 25px;
+}
+
+.th_product_name {
+}
+
+.th_manufacturer {
+  max-width: 30px;
+}
+
+.th_discount {
+  max-width: 20px;
+}
+
+.th_value {
+  max-width: 30px;
+}

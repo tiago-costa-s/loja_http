@@ -1,0 +1,18 @@
+.nav_bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  background-color: #4444;
+}
+
+.nav_container {
+  display: flex;
+  gap: 3rem;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
